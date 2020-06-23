@@ -1,4 +1,4 @@
-# Forecasting_EconomicIndicators
+# Forecasting Economic Indicators
 
 Forecasting behaviour of different Economic Indicators (Unviersity of Southampton):
 1. K54D - Monthly average of private sector weekly pay
