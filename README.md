@@ -7,7 +7,9 @@ Forecasting behaviour of different Economic Indicators (Unviersity of Southampto
 4.   JQ2J - The manufacturing and business sector of Great Britain, total turnover and orders
 5.   FTSE - UK Footsie 100 share index
 
-Methods applied:
+Models applied:
 1.   Exponential Smoothing Methods (Holt Winter)
 2.   ARIMA (SARIMAX in Python)
 3.   Regression Model
+
+All the files are separated by specific small tasks for each of data in order to analyse time series
