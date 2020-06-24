@@ -1,6 +1,6 @@
 # Forecasting Economic Indicators
 
-Forecasting behaviour of different Economic Indicators (Unviersity of Southampton):
+Forecasting behaviour of different Economic Indicators (Forecasting MATH6011, Unviersity of Southampton):
 1.   K54D - Monthly average of private sector weekly pay
 2.   EAFV - Retail sales index, household goods, all businesses
 3.   K226 - Extraction of crude petroleum and natural gas
